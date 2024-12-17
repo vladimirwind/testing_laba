@@ -1,7 +1,27 @@
 {
-   "name": "2TON Smart Challenge #2 Winners Trophy",
-   "description": "TON Smart Challenge #2 Winners Trophy 1 place out of 181",
-   "image": "https://s.getgems.io/nft/b/c/62fba50217c3fe3cbaad9e7f/images/943e994f91227c3fdbccbc6d8635bfaab256fbb4",
-   "content_url": "https://s.getgems.io/nft/b/c/62fba50217c3fe3cbaad9e7f/content/84f7f698b337de3bfd1bc4a8118cdfd8226bbadf",
-   "attributes": []
+  "name": "Gemsee #57",
+  "description": "Gemsee gemsee",
+  "image": "https://s.getgems.io/nft/c/62695cb92d780b7496caea3a/nft/56/629b9349e034e8e582cf6448.png",
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "Wool fabric"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Top hat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Item",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    }
+  ]
 }
