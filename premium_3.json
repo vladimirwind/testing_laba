@@ -1,0 +1,27 @@
+{
+    "name": "Gemsee #2",
+    "description": "Gemsee r",
+    "image": "https://s.getgems.io/nft/c/62695cb92d780b7496caea3a/nft/56/629b9349e034e8e582cf6448.png",
+    "attributes": [
+        {
+        "trait_type": "Material",
+        "value": "Wool premium"
+        },
+        {
+        "trait_type": "Hat",
+        "value": "Top premium"
+        },
+        {
+        "trait_type": "Glasses",
+        "value": "premium"
+        },
+        {
+        "trait_type": "Item",
+        "value": "premium"
+        },
+        {
+        "trait_type": "Background",
+        "value": "premium"
+        }
+    ]
+}
