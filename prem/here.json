@@ -1,0 +1,27 @@
+{
+    "name": "Gemsee prem",
+    "description": "Gemsee prem",
+    "image": "https://i.imgur.com/BJ9Rd22.png",
+    "attributes": [
+        {
+        "trait_type": "Material",
+        "value": "Wool premium2"
+        },
+        {
+        "trait_type": "Hat",
+        "value": "Top premiu2m"
+        },
+        {
+        "trait_type": "Glasses",
+        "value": "premium2"
+        },
+        {
+        "trait_type": "Item",
+        "value": "premiu2m"
+        },
+        {
+        "trait_type": "Background",
+        "value": "premium2"
+        }
+    ]
+}
