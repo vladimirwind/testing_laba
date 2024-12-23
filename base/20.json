@@ -1,0 +1,19 @@
+{
+    "name": "GEMSEE Pass",
+    "description": "A limited edition NFT from the GEMSEE collection providing basic & early access to future Gemsee Foundation projects and extra rewards.",
+    "image": "https://raw.githubusercontent.com/vladimirwind/testing_laba/refs/heads/main/base/Base-Blue-GCoin-YES.png",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Figure",
+            "value": "GCoin"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yes"
+        }
+    ]
+}
