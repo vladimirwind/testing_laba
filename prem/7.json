@@ -1,0 +1,19 @@
+{
+    "name": "GEMSEE Premium Pass",
+    "description": "A limited edition NFT from the GEMSEE collection providing premium & early access to future Gemsee Foundation projects, extra rewards, DAO and private chats.",
+    "image": "https://raw.githubusercontent.com/vladimirwind/testing_laba/refs/heads/main/prem/Prem-Blue_Pink-Star-YES.png",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Blue-pink"
+        },
+        {
+            "trait_type": "Figure",
+            "value": "Star"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yes"
+        }
+    ]
+}
