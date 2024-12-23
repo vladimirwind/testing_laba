@@ -1,0 +1,19 @@
+{
+    "name": "Gemsee pass",
+    "description": "Gemsee gemsee",
+    "image": "https://raw.githubusercontent.com/vladimirwind/testing_laba/refs/heads/main/prem/Prem-Lime_Pink-Star-YES.png",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Lime-pink"
+        },
+        {
+            "trait_type": "Figure",
+            "value": "Star"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yes"
+        }
+    ]
+}

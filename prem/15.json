@@ -1,0 +1,19 @@
+{
+    "name": "Gemsee pass",
+    "description": "Gemsee gemsee",
+    "image": "https://raw.githubusercontent.com/vladimirwind/testing_laba/refs/heads/main/prem/Prem-Blue_Pink-TGplane-YES.png",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Blue-pink"
+        },
+        {
+            "trait_type": "Figure",
+            "value": "TGplane"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yes"
+        }
+    ]
+}
