@@ -1,0 +1,19 @@
+{
+    "name": "Gemsee pass",
+    "description": "Gemsee gemsee",
+    "image": "https://raw.githubusercontent.com/vladimirwind/testing_laba/refs/heads/main/base/Base-Gold-TON-NO.png",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Figure",
+            "value": "TON"
+        },
+        {
+            "trait_type": "Background",
+            "value": "No"
+        }
+    ]
+}
